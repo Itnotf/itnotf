@@ -3,9 +3,6 @@
 🎉 欢迎访问我的 GitHub 主页！  
 技术爱好者，持续探索和学习中。
 
----
-
-## 📊 我的 GitHub 统计
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itnotf&show_icons=true&theme=radical)
 
