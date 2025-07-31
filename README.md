@@ -7,7 +7,7 @@
 
 > 🏃‍♂️ Skills: `Go`, `Python`, `PHP`, `Kubernetes`, `Docker`, `System Design` and more
 
-> 👀 Focus: `Cloud Native`, `Machine/Deep Learning` (mainly in `RAG`、`NLP` and `Recommendation System`), `Big Data` , `Quant`
+> 👀 Focus: `Cloud Native`, `Machine/Deep Learning` (mainly in `RAG`、`NLP`), `Big Data` , `Quant`
 
 > 🤩 Hobbies: `Coding`, `Learning New Technologies`
 
