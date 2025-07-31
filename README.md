@@ -1,3 +1,25 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itnotf&show_icons=true&theme=radical)
-](https://github-readme-stats.vercel.app/api?username=itnotf&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=60%20的%20GitHub%20统计&bg_color=00000000&text_color=ffffff&icon_color=39ff14
-)
+#  🙋 Hey! 👋 Nice to See You
+<table>
+  
+<tr><td>
+
+### 👨‍💻 About Me
+
+> 🏃‍♂️ Skills: `Python`, `Go`, `PHP`, `Kubernetes`, `Docker`, `System Design` and more
+
+> 👀 Focus: `Cloud Native`, `Machine/Deep Learning` (mainly in `RAG`、`NLP` and `Recommendation System`), `Big Data` , `Quant`
+
+> 🤩 Hobbies: `Coding`, `Learning New Technologies`
+
+</td></tr>
+
+<tr><td>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=itnotf&count_private=true&&show_icons=true&line_height=28" alt="itnotf's Github Stats" style="height: 200px; width: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itnotf&layout=compact&theme&langs_count=10&hide=smarty&exclude_repo=itnotf.github.io" alt="itnotf's Top Languages" style="height: 200px; width: auto;">
+</div>
+
+</td></tr>
+
+</table>
