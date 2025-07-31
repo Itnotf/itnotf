@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-> 🏃‍♂️ Skills: `Python`, `Go`, `PHP`, `Kubernetes`, `Docker`, `System Design` and more
+> 🏃‍♂️ Skills: `Go`, `Python`, `PHP`, `Kubernetes`, `Docker`, `System Design` and more
 
 > 👀 Focus: `Cloud Native`, `Machine/Deep Learning` (mainly in `RAG`、`NLP` and `Recommendation System`), `Big Data` , `Quant`
 
